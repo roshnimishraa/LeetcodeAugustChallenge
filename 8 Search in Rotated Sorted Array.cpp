@@ -1,5 +1,4 @@
 Problem Link : https://leetcode.com/problems/search-in-rotated-sorted-array/
-
 Brute Force : Linear Search 
 TC : O(n) 
   SC : O(1) 
