@@ -1,3 +1,5 @@
+Approach : Binary Search
+
 Need to Remember : Compare with Index Value  
 1. mid
 2. indexVal = matrix[mid/m][mid%m]
